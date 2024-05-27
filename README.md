@@ -4,7 +4,8 @@
 
 CMake wrapper for the Conan C and C++ package manager.
 
-> :warning: **Compatibility with Conan 2.0**: please check for experimental support in 
+> :warning: The recommended production version is Conan 2. This ``cmake-conan`` integration for Conan 1.X is no longer
+mantained, please upgrade to the ``cmake-conan`` integration for Conan 2 in
 the [develop2](https://github.com/conan-io/cmake-conan/tree/develop2) branch.
 
 
